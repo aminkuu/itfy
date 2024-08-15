@@ -1,12 +1,12 @@
 {
-  "owner": "John Smith",
-  "siteName": "John Smith's Portfolio",
-  "siteDescription": "John Smith's Portfolio for potential employers",
-  "about": "I'm a web developer from Anytown, USA. I like to build things with HTML, CSS, and JavaScript.",
+  "owner": "Amine Semouma",
+  "siteName": "Amine's Portfolio",
+  "siteDescription": "Amine Semouma's Web Resume for Potential Employers",
+  "about": "Client Success Manager with a passion for building strong client relationships and driving business growth. Proven ability to increase client satisfaction by 20% through customised solutions, exceptional communication, and good understanding of technical needs. Possess strong sales acumen, ensuring clients achieve their goals and maximise the value of their investment.",
   "contact": {
-    "email": "bob@aol.com",
-    "phone": "555-555-5555",
-    "address": "1234 Main St. Anytown, USA 12345"
+    "email": "amine@semouma.com",
+    "phone": "447447753015",
+    "address": "London, United Kingdom"
   },
   "pages": [
     {
@@ -25,20 +25,17 @@
   "social": [
     {
       "title": "GitHub",
-      "href": "https://github.com/leabs"
+      "href": "https://github.com/aminkuu"
     },
     {
       "title": "YouTube",
-      "href": "https://www.youtube.com/@shadowstack"
+      "href": "https://www.youtube.com/@microsoft"
     },
     {
       "title": "LinkedIn",
-      "href": "https://www.linkedin.com/in/stevenleabo/"
-    },
-    {
-      "title": "CodePen",
-      "href": "https://codepen.io/shadowstack/pens/popular"
+      "href": "https://www.linkedin.com/in/csunicorn/"
     }
+    
   ],
   "projects": [
     {
